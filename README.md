@@ -121,7 +121,7 @@ Pratica a sincronização entre o repositório local e o remoto pessoal configur
 - Envia para o GitHub os commits locais que ainda não foram enviados.
 - No teu repositório pessoal do GitHub, faz uma pequena alteração ao `README.md` na branch *main* e regista-a.
 - Atualiza a branch *main* local a partir da *main* do remoto pessoal e confirma que a alteração ficou integrada.
-
+como assim remoto pessoal
 > **Comandos úteis:** `git remote`, `git push`, `git pull`.
 
 ---
@@ -147,3 +147,5 @@ Combina todos os conceitos:
 - Verifica frequentemente o estado do repositório (`git status`).
 - Usa `git log --oneline --graph` para visualizar o histórico.
 - Mantém o repositório atualizado com `git pull`.
+
+tem um meme!!!!!
