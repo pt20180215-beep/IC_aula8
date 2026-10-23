@@ -127,7 +127,7 @@ como assim remoto pessoal
 ---
 
 ## Exercício 7 - Revisão Geral
-
+sincronizationnnnn
 Combina todos os conceitos:
 
 1. Cria uma nova branch a partir da *main*.
